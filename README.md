@@ -21,7 +21,6 @@ imination).
 
 ## Program:
 ```
-/*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: S.E.Elamaran
 RegisterNumber: 22000420
@@ -57,7 +56,7 @@ for i in range(n-2,-1,-1):
     
 for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end = ' ')
-*/
+    
 ```
 
 ## Output:
